@@ -8,6 +8,7 @@ namespace SPOJChallenges
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
