@@ -1,0 +1,5 @@
+E:\Studio Works\SPOJ\SPOJChallenges\SPOJChallenges\bin\Debug\SPOJChallenges.exe
+E:\Studio Works\SPOJ\SPOJChallenges\SPOJChallenges\bin\Debug\SPOJChallenges.pdb
+E:\Studio Works\SPOJ\SPOJChallenges\SPOJChallenges\obj\Debug\SPOJChallenges.csprojResolveAssemblyReference.cache
+E:\Studio Works\SPOJ\SPOJChallenges\SPOJChallenges\obj\Debug\SPOJChallenges.exe
+E:\Studio Works\SPOJ\SPOJChallenges\SPOJChallenges\obj\Debug\SPOJChallenges.pdb
