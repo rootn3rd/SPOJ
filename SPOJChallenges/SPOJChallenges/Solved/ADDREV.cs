@@ -8,6 +8,7 @@ namespace SPOJ
     {
         static void Main(string[] args)
         {
+            //test code
             //while (true)
             //{
             //    string num1 = GetReverse(Console.ReadLine());
